@@ -18,6 +18,7 @@ const Badge = ({ label, tone = 'neutral', className = '', dot }) => {
       {label}
     </span>
   );
+  
 };
 
 export default Badge;
